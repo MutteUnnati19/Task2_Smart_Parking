@@ -1,0 +1,9 @@
+Smart Parking System
+
+Components used:
+1. Arduino Uno 
+2. LCD 20x4 display with I2c
+3. IR Sensor
+4. Servo Motor (MG995)
+5. Zero PCB
+6. 9V Power Supply
